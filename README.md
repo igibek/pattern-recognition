@@ -1,6 +1,10 @@
 Pattern-Recognition
 ===================
 
+Description
+-----
+Coming soon...
+
 Configuration
 -----------------
  1. You need to download and install the **Python 3.3 or higher** ([download here][1])
@@ -9,8 +13,8 @@ Configuration
  3. Choose the **algo.py**
  4. From the opened window select **Run --> Run Module** or press **F5**
 
-Description
+How to use
 ---
-
+Coming soon...
 
   [1]: http://www.python.org/download/
