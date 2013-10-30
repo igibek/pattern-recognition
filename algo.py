@@ -76,3 +76,16 @@ def is_center_exists(centers, objects, p):
         return True
     
     return False
+
+def read_from_file(path):
+    '''(str path of file) -> dictionary of objects
+
+    >> give example
+    
+    '''
+    objects = {}
+    f = open(path, 'r')
+    for line in f:
+        objects = eval(line)
+    return objects
+
